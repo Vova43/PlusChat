@@ -6,4 +6,4 @@ This plugin allows you to create multiple shared chat chats on the minecraft ser
 The plugin itself reloads the configs!
 
 Source Code in plugin.jar
-Version 1.8+ > https://www.spigotmc.org/resources/plus-chat.105101/
+SpigotMC > https://www.spigotmc.org/resources/plus-chat.105101/
